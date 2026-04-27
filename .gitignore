@@ -4,3 +4,4 @@ __pycache__/
 *.pkl
 *.pth
 .DS_Store
+venv/
